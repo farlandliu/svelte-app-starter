@@ -1,6 +1,8 @@
-# create-svelte
+# Sveltekit App starter
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+Svelte + Tailwind css + daisyUI + fontsource + Iconify
+
+powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
 ## Creating a project
 
